@@ -1,7 +1,10 @@
 # DIY Self-Balancing Robot using Arduino
-![Arduino UNO](https://img.shields.io/badge/Board-Arduino%20UNO-blue?logo=arduino)  ![Language](https://img.shields.io/badge/Language-C%2B%2B%2FArduino-yellow?logo=c%2B%2B) ![Component](https://img.shields.io/badge/Component-MPU6050%20%26%20L298N-green) 
-![License](https://img.shields.io/badge/License-CircuitDigest-red)  
- 
+[![Arduino UNO](https://img.shields.io/badge/Board-Arduino%20UNO-blue?logo=arduino)](https://store.arduino.cc/products/arduino-uno-rev3) 
+[![Language](https://img.shields.io/badge/Language-C%2B%2B%2FArduino-yellow?logo=c%2B%2B)](https://www.arduino.cc/reference/en/) 
+[![Component](https://img.shields.io/badge/Component-MPU6050%20%26%20L298N-green)](https://circuitdigest.com/microcontroller-projects/interfacing-mpu6050-module-with-arduino) 
+[![CircuitDigest Project](https://img.shields.io/badge/Project-CircuitDigest-red)](https://circuitdigest.com/)
+
+
  
 
 🔗 [DIY Self-Balancing Robot using Arduino](https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot)  
